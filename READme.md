@@ -1,4 +1,4 @@
-## Markdwon for hw 1
+## Markdown for hw 1
 
 # This is an image
 
