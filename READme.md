@@ -2,7 +2,7 @@
 
 # This is an image
 
-<img src="/images/casent_0172345_rhytidoponera_metallica.jpg.jpg" title="Very Scary Picture">
+<img src="/images/casent_0172345_rhytidoponera_metallica.jpg" title="Very Scary Picture">
 
 ## Grocery list
 1. Eggs
